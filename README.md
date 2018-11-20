@@ -17,8 +17,8 @@ Eseguite le seguenti operazioni:
 - [x] aprite Esplora Risorse
 - [x] navigate nel repository scaricato ed aprite il file `design/wireframe.png`
 - [x] aprite Eclipse
-- [ ] importate il progetto con `File->Import->General->Existing Project Into Workspace` e **selezionate la cartella `code`**
-- [ ] implementate nel progetto Eclipse il wireframe appena aperto (vedi note sotto)
+- [x] importate il progetto con `File->Import->General->Existing Project Into Workspace` e **selezionate la cartella `code`**
+- [x] implementate nel progetto Eclipse il wireframe appena aperto (vedi note sotto)
 
 Quando avete finito e **comunque 7 minuti prima** dello scadere del tempo (vi verrà ricordato dal docente), dovete pubblicare il codice seguendo la procedura:
 - [ ] salvate il vostro codice Java
